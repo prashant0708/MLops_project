@@ -63,4 +63,5 @@ To get the git url in the terminal
 git remote -v
 
 ```
+For more git commnad [please click on](https://git-scm.com/docs/git)
 
