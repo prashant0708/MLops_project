@@ -20,8 +20,41 @@ conda active venv/
 
 ```
 or 
+
 ```
 conda active venv
 
+```
+To add the file to git 
+
+```
+git add .
+```
+or 
+```
+git add <file_name>
+
+```
+>Note : To ignore file or folder from git we can write name of file / folder in .gitignore
+
+To commit the file ---> add the file in staging area
+```
+git commit -m "message"
+
+'''
+To push the file in centerlized git repo 
+
+```
+git push origin master
+```
+To check the status 
+0
+```
+git status
+```
+To check the log of git 
+
+```
+git log
 ```
 
