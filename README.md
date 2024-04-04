@@ -40,15 +40,15 @@ git add <file_name>
 To commit the file ---> add the file in staging area
 ```
 git commit -m "message"
+```
 
-'''
-To push the file in centerlized git repo 
+To send  the file in centerlized git repo 
 
 ```
 git push origin master
 ```
 To check the status 
-0
+
 ```
 git status
 ```
@@ -56,5 +56,11 @@ To check the log of git
 
 ```
 git log
+```
+To get the git url in the terminal 
+
+```
+git remote -v
+
 ```
 
