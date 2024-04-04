@@ -1,0 +1,9 @@
+Before Starting the project we need to set up the vertual enviroment and before that we need to activate the conda enviroment 
+some time conda is not added to the system path to verify that open the terminal and write 
+`conda --version` if it give error conda is not recognized then add the five path in the system path. 
+
+Steps to add the conda path in the system path 
+1. Go to the search bar of the window and write enviroment and open "Edit the system enviroment variables" 
+2. 
+
+
